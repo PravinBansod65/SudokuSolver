@@ -1,6 +1,6 @@
-SUDOKU Solver by SK
+**SUDOKU Solver by SK**
 
-Lets Check Ur IQ
+ Lets Check! Ur IQ !
 
 The Sudoku Solver Java project uses Java Swing as the GUI toolkit and Apache Net Beans as the Integrated Development Environment (IDE). Java Swing is a powerful GUI toolkit for Java that provides a collection of graphical user interface (GUI) components such as buttons, labels, text fields, etc., which are used to create visually appealing and interactive applications in Java.
 
