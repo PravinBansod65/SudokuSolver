@@ -23,6 +23,7 @@ Whenever you start Sudoku, your saved game will be opened. If you'd like to stop
 EXIT BUTTON
 
 How do I force close the game?
+
 ![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/18e41bcf-a8f3-455b-b226-062e1790926a)
 
 Press your device's Home button.
@@ -33,6 +34,7 @@ Swipe each window of your currently open apps off the top of the screen to force
 SOLUTION BUTTON
 
 whenever we are stuck in the sudoku then there is solution button available through which we can easily see the solution and check our moves wheather it is right move or not.
+
 ![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/2109e5d2-6531-40b9-a36d-87d2d746ab0f)
 
 
