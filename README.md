@@ -13,11 +13,11 @@ The Sudoku puzzle consists of a series of grids. The grids include one large 9 x
 No addition is involved; however there are three conditions that rely on each other and must be followed. Each number 1-9 can appear only once in each column, once in each row, and once in each small 3 x 3 grid. Mathematically, Sudoku puzzles are a derivation of Latin Squares.
 
 
-![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/72d65fb2-fd06-4e5a-8457-6f9552869ceb)
-
 RESET BUTTON
 
 Whenever you start Sudoku, your saved game will be opened. If you'd like to stop playing that game and begin another, just select New Puzzle and begin your new game.
+
+![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/72d65fb2-fd06-4e5a-8457-6f9552869ceb)
 
 
 EXIT BUTTON
@@ -29,12 +29,12 @@ Press your device's Home button.
 Select the Multitasking (Square) button (This may be a physical button or you may need to swipe up from the bottom of the screen to reveal it)
 Swipe each window of your currently open apps off the top of the screen to force close them.
 
-![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/2109e5d2-6531-40b9-a36d-87d2d746ab0f)
-
 
 SOLUTION BUTTON
 
 whenever we are stuck in the sudoku then there is solution button available through which we can easily see the solution and check our moves wheather it is right move or not.
+![image](https://github.com/silentSK987/SudokuSolver/assets/136956809/2109e5d2-6531-40b9-a36d-87d2d746ab0f)
+
 
 
 CHECK MOVES
